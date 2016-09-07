@@ -16,13 +16,13 @@
     },
     "packages": {
         "win": {
-            "url": ""
+            "url": "http://104.224.164.54/multiple-host/1.0.6/win/multiple-host.zip"
         },
         "mac": {
-            "url": ""
+            "url": "http://104.224.164.54/multiple-host/1.0.6/mac/multiple-host.zip"
         }
     },
     "manifestUrl": "https://raw.githubusercontent.com/liyangready/static_source/master/multiple-host/package.json",
     "node-remote": "*",
-    "version": "1.0.4"
+    "version": "1.0.6"
 }
